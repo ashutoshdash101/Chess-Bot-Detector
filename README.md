@@ -35,12 +35,14 @@ The trained model is deployed using **Flask** and hosted online. Users can:
 
 This makes the system practical, fast, and easy to use.
 
+The Website link is given below
+###https://bot-detector-0woo.onrender.com/
+
 ---
 
 ## 🛠️ Tech Stack
 
 - Python
-- Scikit-learn
 - Pandas
 - NumPy
 - Matplotlib
